@@ -1,5 +1,9 @@
 # Cursor 增强汉化包
 
+[![GitHub](https://img.shields.io/github/stars/lsh2253823857/cursor-i18n-tool?style=social)](https://github.com/lsh2253823857/cursor-i18n-tool)
+
+**仓库地址：** https://github.com/lsh2253823857/cursor-i18n-tool
+
 面向 **Cursor IDE** 的社区增强汉化工具，在官方中文语言包基础上，对 Glass 智能体界面、设置页、Git/SCM 面板、文件页、顶部菜单等仍残留的英文进行补丁式翻译，并自动修复 `product.json` 校验值，避免出现「安装已损坏」提示。
 
 > **声明**：本项目为非官方社区工具，与 Cursor 官方无关。汉化通过修改本地安装文件实现，Cursor 更新后需重新运行补丁。使用风险自负，建议在应用前关闭 Cursor 并自行备份。
