@@ -41,7 +41,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<你的用户名>/cursor-i18n-tool.git
+git clone https://github.com/lsh2253823857/cursor-i18n-tool.git
 cd cursor-i18n-tool
 npm install
 ```
